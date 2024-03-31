@@ -1,7 +1,6 @@
 #include "StdAfx.h"
 #include "Application.h"
 #include "MemoryManager.hpp"
-#include "ioHashString.h"
 
 using namespace std;
 

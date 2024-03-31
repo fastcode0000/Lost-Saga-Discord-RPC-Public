@@ -144,12 +144,10 @@
   <ItemGroup>
     <ClCompile Include="Application.cpp" />
     <ClCompile Include="dllmain.cpp" />
-    <ClCompile Include="ioHashString.cpp" />
     <ClCompile Include="MemoryManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
-    <ClInclude Include="ioHashString.h" />
     <ClInclude Include="MemoryManager.hpp" />
     <ClInclude Include="StdAfx.h" />
   </ItemGroup>

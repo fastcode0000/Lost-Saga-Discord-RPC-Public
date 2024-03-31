@@ -30,9 +30,6 @@
     <ClCompile Include="Application.cpp">
       <Filter>Function</Filter>
     </ClCompile>
-    <ClCompile Include="ioHashString.cpp">
-      <Filter>Utils</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StdAfx.h">
@@ -43,9 +40,6 @@
     </ClInclude>
     <ClInclude Include="Application.h">
       <Filter>Function</Filter>
-    </ClInclude>
-    <ClInclude Include="ioHashString.h">
-      <Filter>Utils</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
